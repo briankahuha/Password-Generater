@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: #10b981;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+p {
+  color: #fff;
+}
+
+.card {
+  width: 500px;
+  border: none;
+  padding: 20px;
+  margin: 50px auto;
+  background-color: #273549;
+}
+
+.top {
+  font-size: 40px;
+  font-weight: bold;
+  color: #10b981;
+}
+
+.bottom {
+  color: #fff;
+}
+
+#top-part {
+  padding: 30px;
+}
+
+#passwords-el {
+  border-top: 2px solid rgb(99, 99, 99);
+}
+
+#pass-one {
+  width: 200px;
+  border: #354863 solid 2px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  color: #10b981;
+  border-radius: 5px;
+}
+
+#pass-two {
+  width: 200px;
+  border: #354863 solid 2px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  color: #10b981;
+  border-radius: 5px;
+}
+
+#pass-three {
+  width: 200px;
+  border: #354863 solid 2px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  color: #10b981;
+  border-radius: 5px;
+}
+
+#pass-four {
+  width: 200px;
+  border: #354863 solid 2px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  color: #10b981;
+  border-radius: 5px;
+}
